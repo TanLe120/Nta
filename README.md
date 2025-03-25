@@ -19,8 +19,8 @@
 ![chrome_image_24-03-2025 11_13_24 GMT+07_00](https://github.com/user-attachments/assets/ca2aba13-dfb0-44b9-9fa8-c7e2792278b8)Ít được chọn
 ![chrome_image_24-03-2025 11_14_21 GMT+07_00](https://github.com/user-attachments/assets/79a4bf11-8baa-428b-93ec-8fbe03392e9a)Ít được chọn
 ![chrome_image_24-03-2025 10_47_01 GMT+07_00](https://github.com/user-attachments/assets/286dac48-045e-4266-8010-fc17d262b17a)Tháp canh ô đất của bạn sẽ tăng 3 cấp.Thích hợp khi thủ với tháp canh của bạn lv cao(max tingsytem 20+policy+buff union =26)
-![chrome_image_24-03-2025 10_49_55 GMT+07_00](https://github.com/user-attachments/assets/4879cd5d-4823-4289-9877-1901a5e16390)Có thể chọn để lấy thêm sách hoặc sắt(nếu ko có mỏ gỗ tạo sách)
-![chrome_image_24-03-2025 10_58_42 GMT+07_00](https://github.com/user-attachments/assets/24663e56-a44c-4f88-8002-85919f927305)Ít được chọn vì về sau không thiếu sắt
-![chrome_image_24-03-2025 10_59_40 GMT+07_00](https://github.com/user-attachments/assets/6ec82b65-7309-4e89-a408-5d9600c8e689)Được chọn phổ biến nhất so với 2 cái phía trên
+![chrome_image_24-03-2025 10_49_55 GMT+07_00](https://github.com/user-attachments/assets/4879cd5d-4823-4289-9877-1901a5e16390)Mỏ lúa-Có thể chọn để lấy thêm sách hoặc sắt(nếu ko có mỏ gỗ tạo sách)
+![chrome_image_24-03-2025 10_58_42 GMT+07_00](https://github.com/user-attachments/assets/24663e56-a44c-4f88-8002-85919f927305)Mỏ đá-Ít được chọn vì về sau không thiếu sắt
+![chrome_image_24-03-2025 10_59_40 GMT+07_00](https://github.com/user-attachments/assets/6ec82b65-7309-4e89-a408-5d9600c8e689)Mỏ gỗ-Được chọn phổ biến nhất so với 2 cái phía trên
 ![chrome_image_24-03-2025 11_00_57 GMT+07_00](https://github.com/user-attachments/assets/bb2b8338-1895-4ae3-b6b8-ddd848d0a42d)Thêm 1 giới hạn xây fortress và 3 mỏ lúa,gỗ,đá từ 5 lên 6
 ![chrome_image_24-03-2025 11_02_17 GMT+07_00](https://github.com/user-attachments/assets/70cc117f-e9a9-4ca5-b42e-80d068f4bcae)Phí chuyển đổi tài nguyên từ mất 60% được 40% sang mất 30% được 70%
